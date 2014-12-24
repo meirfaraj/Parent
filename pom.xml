@@ -46,7 +46,7 @@
 	<scm>
 		<url>https://github.com/meirfaraj/Parent</url>
 		<connection>scm:git:https://github.com/meirfaraj/Parent.git</connection>
-		<developerConnection>scm:git:git@github.com/meirfaraj/Parent.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/meirfaraj/Parent.git</developerConnection>
 	  <tag>parent-1.0.0</tag>
   </scm>
 
